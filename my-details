@@ -1,0 +1,9 @@
+#!/bin/bash
+
+name="Upagna"
+Branch="CSE-AI"
+Year="2nd year"
+echo "My details"
+echo "My name is $name"
+echo "My branch is $Branch"
+echo "I am studying btech $Year"
