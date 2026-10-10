@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "Creating folder"
+mkdir PracticeFolder
+
+echo "Creating a file"
+touch practice.txt
+
+echo "Writing content into the file"
+echo "I am learning shell scripting" > PracticeFolder/practice.txt
+
+echo "Task completed successfully"
